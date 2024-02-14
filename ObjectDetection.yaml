@@ -1,0 +1,3 @@
+object_detection_config:
+  model: yolov5x6
+  repository: ultralytics/yolov5
